@@ -7,5 +7,5 @@ Objectives:
 
 - [x] Make a super simple html page
 - [x] Add some links and photos to it
-- [ ] Upload all this to git
+- [X] Upload all this to git
 - [ ] **Hope** to achieve some knowledge
