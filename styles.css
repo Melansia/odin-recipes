@@ -31,10 +31,39 @@ body {
 }
 
 li {
-    padding: 8px;
+    padding: 0.2em;
 }
 
 
 .title {
     text-align: center;
+}
+
+.container {
+    max-width: 50rem;
+    margin: 20px auto;
+}
+
+.recipe-card {
+    padding: 1em;
+}
+
+.recipe-card h1 {
+    font-size: 2rem;
+}
+
+.recipe-card h3 {
+    font-size: 1rem;
+}
+
+.recipe-card p {
+    font-size: 0.7rem;
+}
+
+.recipe-card li {
+    font-size: 12px;
+}
+
+img {
+    max-width: 350px;
 }
